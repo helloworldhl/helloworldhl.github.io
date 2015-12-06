@@ -16,6 +16,9 @@ header-img: "img/about.jpg"
 
 ###坚信
 
+```
+UIView.animateWithDuration(0.3, delay: 1.0, options: UIViewAnimationOptions.CurveEaseIn |  UIViewAnimationOptions.CurveEaseOut, animations: { () -> Void in
+```
 
 - 元认知乃一切之源
 - 学苟知本，六经皆我注脚 
