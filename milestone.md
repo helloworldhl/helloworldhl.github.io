@@ -7,7 +7,7 @@ header-img: "img/milestone.jpg"
 
 
 <center>
-    <p><img src="http://7xoxd4.com1.z0.glb.clouddn.com/header.jpg" align="center"></p>
+    <p><img src="http://7xoxd4.com1.z0.glb.clouddn.com/aboutme.jpg" align="center"></p>
 </center>
 
 
