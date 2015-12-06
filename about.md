@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "关于"
-description: "学苟知本，六经皆我注脚 "
+description: "命运最后，勿忘心安 "
 header-img: "img/about.jpg"
 ---
 
