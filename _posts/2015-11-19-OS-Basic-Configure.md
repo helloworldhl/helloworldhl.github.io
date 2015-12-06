@@ -22,7 +22,7 @@ XCode 选择安装
 xcode-select --install
 ```
 
-包含的可用命令集，可在 /Library/Developer/CommandLineTools/ 目录下查看。
+~~包含的可用命令集，可在 /Library/Developer/CommandLineTools/ 目录下查看。~~
 
 ## Install Ruby
 
@@ -119,3 +119,4 @@ wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - 
 
 
 and so on 
+
