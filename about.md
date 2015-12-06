@@ -35,7 +35,7 @@ header-img: "img/about.jpg"
 
 
 
-###代表作：
+#####代表作：
 
 - [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
 
@@ -44,7 +44,7 @@ header-img: "img/about.jpg"
 - [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
 
 
-###我的朋友们
+####我的朋友们
 
 - [YiLee](http://yilee.me)
 - [Caos](http://caos.me)
