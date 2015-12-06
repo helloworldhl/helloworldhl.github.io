@@ -1,40 +1,46 @@
 # Site settings
-title: hslife
-header-img: "img/face.jpg"
-tagline: "cn"  
-description: "花磊|命运最后，勿忘心安"
+title: Microdust
+header-img: "img/autumn2.jpg"
+tagline: "吉光片羽"  
+description: "在遙遠的地方 一切虔誠終必相遇"  
 baseurl: ""
-url: "http://helloworldhl"
+url: "http://azeril.me"  
+#url: "http://localhost:4000"
 
 # About/contact
 owner: 
-  name: " helloworldhl"
-  email: helloworld_hl@163.com
-  bio: "命运最后，勿忘心安"
+  name: "Azeril"
+  email: azeril@live.cn
+  bio: "明朝即長路 惜取此時心"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/faviconhslife.png
+favicon: img/favicon.ico
 
-#douban_username:  cnfeat
-#twitter_username:
-github_username: helloworldhl
-#facebook_username:
-weibo_username: 坐看云起时_L
-stackoverflow_username: hslife
+douban_username: Azeril
+twitter_username: Azeril_Lapland  
+github_username: Azeril  
+facebook_username: Azeril_Lapland  
+weibo_username: Azeril  
+zhihu_username: Azeril  
 
 # Build settings  
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
 markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: pygments
-permalink: pretty
+permalink: none
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 relative_permalinks: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
+
+# Title
+
 
 # Defaults for posts
 defaults:
@@ -44,19 +50,19 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "helloworldhl"
-      header-img: "img/face.jpg" # We don't want posts without a header image, that whould mean white on white
+      author: "Azeril"
+      header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hslife
+    short_name : Azeril
   disqus :
-      short_name : hslife
+      short_name : Azeril
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
+google_analytics: UA-66863061-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
