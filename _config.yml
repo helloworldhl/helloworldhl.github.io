@@ -45,7 +45,7 @@ defaults:
     values:
       layout: "post"
       author: "helloworldhl"
-      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/face.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
