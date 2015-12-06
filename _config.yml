@@ -25,7 +25,7 @@ stackoverflow_username: hslife
 
 # Build settings  
 # use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
   input: GFM
