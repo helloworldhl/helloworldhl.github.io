@@ -2,7 +2,7 @@
 layout: page
 title: "里程碑"
 description: "一切技能皆可习得，只要践行 "
-header-img: "img/miestone.jpg"
+header-img: "img/milestone.jpg"
 ---
 
 
