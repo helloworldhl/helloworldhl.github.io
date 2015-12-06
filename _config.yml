@@ -1,6 +1,6 @@
 # Site settings
 title: hslife
-header-img: "img/facebook.jpg"
+header-img: "img/face.jpg"
 tagline: "cn"  
 description: "花磊|命运最后，勿忘心安"
 baseurl: ""
@@ -14,7 +14,7 @@ owner:
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+favicon: img/faviconhslife.png
 
 #douban_username:  cnfeat
 #twitter_username:
