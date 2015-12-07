@@ -28,6 +28,7 @@ stackoverflow_username: hslife
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: redcarpet
 redcarpet:
+    inputs: GFM
     extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 highlighter: pygments
 permalink: pretty
