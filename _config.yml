@@ -28,16 +28,16 @@ stackoverflow_username: hslife
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
-  input: GFM
-  extensions:
-    - autolink
-    - footnotes
-    - smart
-  use_coderay: true
-  syntax_highlighter: rouge
-  coderay:
-    coderay_line_numbers:  nil
-#highlighter: pygments
+   input: GFM
+#  extensions:
+#    - autolink
+#    - footnotes
+#    - smart
+#  use_coderay: true
+#  syntax_highlighter: rouge
+#  coderay:
+#    coderay_line_numbers:  nil
+highlighter: pygments
 permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
