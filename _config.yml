@@ -29,7 +29,7 @@ stackoverflow_username: hslife
 markdown: kramdown
 kramdown:
   input: GFM
-#highlighter: pygments
+highlighter: pygments
 permalink: none
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
