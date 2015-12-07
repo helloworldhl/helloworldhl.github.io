@@ -29,7 +29,15 @@ stackoverflow_username: hslife
 markdown: kramdown
 kramdown:
   input: GFM
-highlighter: pygments
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  use_coderay: true
+  syntax_highlighter: rouge
+  coderay:
+    coderay_line_numbers:  nil
+#highlighter: pygments
 permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
