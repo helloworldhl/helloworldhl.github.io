@@ -99,17 +99,10 @@
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
 
+<script>
+    async("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js",function(){
+        hljs.initHighlightingOnLoad();
+    })
+</script>
 
-
- <!--Highlight.js -->
-//<script>
-//    async("https://cdn.bootcss.com/highlight.js/8.9.1/highlight.min.js",function(){
-//        hljs.initHighlightingOnLoad();
-//    })
-<script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js?lang=css&skin=sunburst"></script>
-<!--<script>hljs.initHighlightingOnLoad();</script>-->
-<!--</script>-->
-<!--<link href="https://cdn.bootcss.com/highlight.js/8.9.1/styles/github.min.css" rel="stylesheet">-->
-
-<!--<link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">-->
-
+<link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">

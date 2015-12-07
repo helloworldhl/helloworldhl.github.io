@@ -29,7 +29,6 @@ stackoverflow_username: hslife
 markdown: kramdown
 kramdown:
   input: GFM
-  extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
 highlighter: pygments
 permalink: none
 paginate: 8
