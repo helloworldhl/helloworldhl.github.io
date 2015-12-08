@@ -60,7 +60,7 @@ blockquote p {
 }
 .table th,
 .table td {
-  border: 1px solid #44bff2 !important;
+  border: 1px solid #eee !important;
 }
 hr.small {
   max-width: 100px;
