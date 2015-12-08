@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "成果"
+title: "文章"
 description: "我的所有文章"
 header-img: "img/archive.jpg"
 ---
