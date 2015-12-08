@@ -2,8 +2,7 @@ body {
   font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 16px;
-  /*color: #404040;*/
-  color: #0085a1;
+  color: #404040;
   overflow-x: hidden;
 }
 p {
@@ -47,6 +46,7 @@ blockquote {
   margin: 20px 0 20px;
 }
 blockquote p {
+  color: #0085a1;
   margin: 0;
 }
 @media screen and (max-width: 768px) {
