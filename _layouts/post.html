@@ -22,7 +22,8 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta"> {{ page.date | date: "%b %d. %Y ." }}</span>
+                    <!--<span class="meta"> {{ page.date | date: "%b %d. %Y ." }}</span>-->
+                    <div class="post-meta">   <time datetime="{{date format="DD MMM YYYY"}}" class="post-meta__date date">{{date format="DD MMM YYYY"}}</time> &#8226; <span class="post-meta__tags tags">{{tags prefix="于 "}}</span>  </div>
                 </div>
             </div>
         </div>

@@ -306,22 +306,48 @@ hr.small {
   font-weight: 300;
   margin-bottom: 10px;
 }
-.post-preview > .post-meta {
-  font-family: 'Lora', 'Times New Roman', serif;
-  color: #808080;
-  font-size: 16px;
-  font-style: italic;
-  margin-top: 0;
+
+.post-list__meta { 
+   display: block; 
+   margin: .7em 0 0 0; 
+   font-size: .9em; 
+   color: #c7c7c7;
 }
-.post-preview > .post-meta > a {
-  text-decoration: none;
-  color: #404040;
+  .post-list__meta--date { 
+   margin-right: .5em; 
+   color: #c7c7c7;
+}  
+.post-list__meta--tags { 
+   margin-left: .5em;
+ }
+
+.post-meta { 
+   margin: 0 0 .4em 0; 
+   color: #c7c7c7;
+}  
+.post-meta__date { 
+   margin-right: .5em;
 }
-.post-preview > .post-meta > a:hover,
-.post-preview > .post-meta > a:focus {
-  color: #2B4180;
-  text-decoration: underline;
+  .post-meta__tags { 
+   margin-left: .4em;
 }
+
+/*.post-preview > .post-meta {*/
+  /*font-family: 'Lora', 'Times New Roman', serif;*/
+  /*color: #808080;*/
+  /*font-size: 16px;*/
+  /*font-style: italic;*/
+  /*margin-top: 0;*/
+/*}*/
+/*.post-preview > .post-meta > a {*/
+  /*text-decoration: none;*/
+  /*color: #404040;*/
+/*}*/
+/*.post-preview > .post-meta > a:hover,*/
+/*.post-preview > .post-meta > a:focus {*/
+  /*color: #2B4180;*/
+  /*text-decoration: underline;*/
+/*}*/
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 26px;
