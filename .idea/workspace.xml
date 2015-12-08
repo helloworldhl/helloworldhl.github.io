@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21fa61ae-f60c-4bb2-b62b-3d6b2c2f03be" name="Default" comment="" />
+    <list default="true" id="21fa61ae-f60c-4bb2-b62b-3d6b2c2f03be" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/archive.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a.md" afterPath="$PROJECT_DIR$/a.md" />
+    </list>
     <ignored path="helloworldhl.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +57,8 @@
       <file leaf-file-name="a.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/a.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.045941807">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.091883615">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -153,12 +156,12 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/tags.md" />
         <option value="$PROJECT_DIR$/_posts/2015-12-6-Swfit2.0的变化.md" />
-        <option value="$PROJECT_DIR$/a.md" />
         <option value="$PROJECT_DIR$/b.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/css/clean-blog.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2015-12-6-Swfit2.0中的一些变化.md" />
+        <option value="$PROJECT_DIR$/a.md" />
       </list>
     </option>
   </component>
@@ -783,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/a.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.045941807">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.091883615">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
           <folding />
         </state>
       </provider>
