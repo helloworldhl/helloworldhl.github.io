@@ -26,7 +26,8 @@ h4 {
   font-size: 18px;
 }
 a {
-  color: #404040;
+  /*color: #404040;*/
+  color: #46A5ED;
 }
 a:hover,
 a:focus {
@@ -478,8 +479,7 @@ form .row:first-child .floating-label-form-group {
   }
 }
 .pager li > a {
-  /*color: #404040;*/
-  color: #00c9d7;
+  color: #404040;
 }
 .pager li > a:hover,
 .pager li > a:focus {
