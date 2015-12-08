@@ -323,6 +323,7 @@ hr.small {
   color: #2B4180;
   text-decoration: underline;
 }
+
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 26px;
