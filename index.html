@@ -18,7 +18,7 @@ description: "命运最后，勿忘心安"
             {{ post.content | strip_html | truncate:150 }}
         </div>
     </a>
-    <p class="post-meta">{{ page.date | date: "%b %d. %Y ." }}</p>
+    <p class="post-meta">{{ post.date | date: "%F" }}</p>
 </div>
 
 <hr>
