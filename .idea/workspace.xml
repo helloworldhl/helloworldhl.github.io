@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21fa61ae-f60c-4bb2-b62b-3d6b2c2f03be" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-6-Swfit2.0的变化.md" afterPath="$PROJECT_DIR$/_posts/2015-12-6-Swfit2.0的变化.md" />
-    </list>
+    <list default="true" id="21fa61ae-f60c-4bb2-b62b-3d6b2c2f03be" name="Default" comment="" />
     <ignored path="helloworldhl.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
