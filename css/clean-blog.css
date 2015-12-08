@@ -2,7 +2,8 @@ body {
   font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 16px;
-  color: #404040;
+  /*color: #404040;*/
+  color: #0085a1;
   overflow-x: hidden;
 }
 p {
@@ -26,8 +27,7 @@ h4 {
   font-size: 18px;
 }
 a {
-  /*color: #404040;*/
-  color: #0085a1;
+  color: #404040;
 }
 a:hover,
 a:focus {
