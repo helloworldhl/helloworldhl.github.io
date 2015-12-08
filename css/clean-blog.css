@@ -478,8 +478,9 @@ form .row:first-child .floating-label-form-group {
   }
 }
 .pager li > a {
-  color: #404040;
-}c
+  /*color: #404040;*/
+  color: #00c9d7;
+}
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
