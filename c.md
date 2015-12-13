@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "关于"
-description: "命运最后，勿忘心安 "
+description: "谨记初心"
 header-img: "img/about.jpg"
 ---
 

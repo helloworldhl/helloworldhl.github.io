@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "里程碑"
-description: "一切技能皆可习得，只要践行 "
+description: "谨记初心"
 header-img: "img/milestone.jpg"
 ---
 
