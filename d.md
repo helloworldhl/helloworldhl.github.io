@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "博客转载"
-description: "哈哈，你找到了我的文章基因库"
+title: "好文"
+description: "博客转载"
 header-img: "img/semantic.jpg"
 ---
 
