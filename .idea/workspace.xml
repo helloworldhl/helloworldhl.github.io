@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21fa61ae-f60c-4bb2-b62b-3d6b2c2f03be" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/face.jpg" afterPath="$PROJECT_DIR$/img/face.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/milestone.jpg" afterPath="$PROJECT_DIR$/img/milestone.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/clean-blog.css" afterPath="$PROJECT_DIR$/css/clean-blog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="helloworldhl.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/css/clean-blog.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.3548896">
-              <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
+              <caret line="218" column="14" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -801,7 +802,7 @@
     <entry file="file://$PROJECT_DIR$/css/clean-blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3548896">
-          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
+          <caret line="218" column="14" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
           <folding />
         </state>
       </provider>
