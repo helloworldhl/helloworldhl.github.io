@@ -26,7 +26,7 @@ stackoverflow_username: hslife
 # Build settings  
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
     extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 highlighter: rouge
