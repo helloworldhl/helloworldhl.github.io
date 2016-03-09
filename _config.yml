@@ -29,10 +29,7 @@ stackoverflow_username: hslife
 markdown: kramdown
 kramdown:
   input: GFM
-  extensions:
-    - autolink
-    - footnotes
-    - smart
+  extensions: ["hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
   use_coderay: true
   syntax_highlighter: rouge
   coderay:
