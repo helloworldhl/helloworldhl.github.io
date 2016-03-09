@@ -27,10 +27,8 @@ stackoverflow_username: hslife
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
-kramdown:
-  extensions: ["hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 highlighter: rouge
-permalink: none
+permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
