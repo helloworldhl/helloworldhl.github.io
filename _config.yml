@@ -29,7 +29,7 @@ stackoverflow_username: hslife
 markdown: kramdown
 redcarpet:
     extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
-highlighter: pygments
+highlighter: rouge
 permalink: none
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
