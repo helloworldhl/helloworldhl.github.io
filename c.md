@@ -10,14 +10,14 @@ header-img: "img/about.jpg"
     <p><img src="http://7xoxd4.com1.z0.glb.clouddn.com/header2.jpg" align="center"></p>
 </center>
 
-###我是花磊，一名热爱代码的践行者。感谢每一次苦难，珍惜每一位爱我的人，不断在路上。
+###我是花磊，一名前端开发爱好者。感谢每一次苦难，珍惜每一位爱我的人，不断在路上。
 
- 现在学习 **Swift**
+ 现在学习 **HTML5**
 
 ---
-##坚信
-* 践行
-* 读书
+##热爱
+* 学习
+* 阅读
 
 ##关注
 * 前端开发
