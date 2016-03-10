@@ -16,7 +16,7 @@ header-img: "img/about.jpg"
 
 ---
 ##热爱
-* 学习
+* 学
 * 阅读
 
 ##关注
