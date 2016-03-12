@@ -5,7 +5,6 @@ description: "谨记初心"
 header-img: "img/about.jpg"
 ---
 
-
 <center>
     <p><img src="http://7xoxd4.com1.z0.glb.clouddn.com/header2.jpg" align="center"></p>
 </center>
