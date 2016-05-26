@@ -9,7 +9,7 @@ header-img: "img/about.jpg"
     <p><img src="http://7xoxd4.com1.z0.glb.clouddn.com/ABOUT.jpg" align="center"></p>
 </center>
 
-###我是花磊，一名前端开发爱好者。感谢每一次苦难，珍惜每一位爱我的人，不断在路上。
+###我是花磊，一名前端开发爱好者。
 
  现在学习 **HTML5**
 
