@@ -1,5 +1,5 @@
 # Site settings
-title: hslife
+title: Thinker
 header-img: "img/face.jpg"
 tagline: "cn"  
 description: "花磊|谨记初心"
@@ -21,7 +21,7 @@ favicon: img/faviconhs.png
 github_username: helloworldhl
 #facebook_username:
 weibo_username: 坐看云起时_L
-stackoverflow_username: hslife
+stackoverflow_username: Thinker
 
 # Build settings  
 # use Github Flavored Markdown !important  
